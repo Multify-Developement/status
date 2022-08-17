@@ -1,4 +1,4 @@
-[![Health Check](../../actions/workflows/health-check.yml/badge.svg)](../../actions/workflows/health-check.yml)
+[![Health Check](../../actions/workflows/pages.yml/badge.svg)](../../actions/workflows/pages.yml)
 
 # Statsig's Open-Source Status Page
 
